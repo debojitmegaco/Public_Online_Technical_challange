@@ -1,2 +1,2 @@
-# Public_Online_Technical_challange
+# Public_Online_Technical_challenge
 Technical Challenge Sample Codes
